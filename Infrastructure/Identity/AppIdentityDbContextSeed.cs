@@ -23,7 +23,6 @@ namespace Infrastructure.Identity
                         FirstName = "Bob",
                         LastName = "Lastly",
                         Street = "Street",
-                        HouseNumber = 123,
                         City = "Zwolle",
                         ZipCode = "1234AB"
                     }
